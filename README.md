@@ -6,7 +6,7 @@
 
 ---
 
-## (a) Descrição sucinta do projeto
+## Descrição sucinta do projeto
 
 O projeto **Cardápio Digital Acessível** tem como objetivo desenvolver um aplicativo inclusivo para restaurantes e lanchonetes que ofereça um cardápio fácil de ler e compreender, com recursos de acessibilidade visual, cognitiva e motora.  
 O sistema será usado por **clientes com e sem deficiência**, principalmente em ambientes onde o cardápio é acessado por QR Code.  
@@ -16,7 +16,7 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 
 ---
 
-## (b) Stakeholders e usuários
+## Stakeholders e usuários
 
 ### Stakeholders primários (usuários diretos)
 
@@ -37,7 +37,7 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 
 ---
 
-## (c) Métodos de pesquisa com usuários
+## Métodos de pesquisa com usuários
 
 Para compreender o contexto e as dificuldades enfrentadas por pessoas em situações reais de escolha de refeições, foram aplicados **dois métodos IDEO complementares**: entrevistas contextuais e questionários estruturados.
 
@@ -82,7 +82,7 @@ O questionário foi aplicado via Google Forms e está disponível no link:
 
 ---
 
-## (d) Reflexão sobre o uso dos métodos
+## Reflexão sobre o uso dos métodos
 
 A combinação de **entrevistas** e **questionários** se mostrou eficaz para captar diferentes dimensões da experiência do usuário.  
 O questionário forneceu dados objetivos sobre dificuldades recorrentes, enquanto as entrevistas revelaram aspectos subjetivos e emocionais — como insegurança, vergonha e frustração.
@@ -101,7 +101,7 @@ O questionário forneceu dados objetivos sobre dificuldades recorrentes, enquant
 
 ---
 
-## (e) Descrições de tarefas
+## Descrições de tarefas
 
 As tarefas abaixo representam **ações típicas** que os usuários deverão realizar no sistema proposto:
 
