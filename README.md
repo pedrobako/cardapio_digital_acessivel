@@ -16,6 +16,10 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 
 ---
 
+![Ciclo UCD - User Centered Design](https://github.com/pedrobako/cardapio_digital_acessivel/blob/master/UCD%20-%20Investigate%20fase.PNG?raw=true)
+
+---
+
 ## Stakeholders e usuários
 
 ### Stakeholders primários (usuários diretos)
