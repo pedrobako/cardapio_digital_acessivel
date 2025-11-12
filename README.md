@@ -26,12 +26,13 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 | **Clientes com deficiência intelectual leve** | Precisam de linguagem simples e imagens ilustrativas. | Uso básico de smartphones. |
 | **Clientes sem deficiência** | Buscam praticidade, agilidade e clareza. | Usuários comuns de cardápios digitais. |
 | **Clientes com restrições alimentares** | Precisam de informações sobre ingredientes e alergênicos. | Usuários intermediários de aplicativos móveis. |
+| **Usuário preocupado com alimentação saudável ou emgracimento** | Valoriza cardápios com informações nutricionais e composição detalhada dos pratos. Busca controlar calorias, gorduras e açúcares. | Usuário com familiaridade moderada com tecnologia, costuma utilizar aplicativos de saúde ou controle alimentar. |
 
 ### Stakeholders secundários
 
 | Tipo | Interesse | Impacto |
 |------|------------|----------|
-| **Donos de restaurantes** | Desejam oferecer melhor experiência ao cliente e reduzir erros de pedido. | Alto |
+| **Donos de restaurantes** | Desejam oferecer melhor experiência ao cliente e reduzir erros de pedido. Gerando satisfação | Alto |
 | **Garçons e atendentes** | Precisam compreender o sistema para auxiliar clientes quando necessário. | Médio |
 | **Desenvolvedores do sistema (equipe)** | Devem compreender necessidades reais para garantir a acessibilidade. | Alto |
 
@@ -49,13 +50,28 @@ Permite compreender experiências pessoais, barreiras emocionais e cognitivas as
 **Aplicação:**  
 Foram realizadas entrevistas curtas (10–15 min) com diferentes perfis de usuários (incluindo pessoas com deficiência leve e restrições alimentares).  
 
+**Exemplo de perguntas utilizadas**
+**Pra quebrar o gelo (aquecimento)**
+“Você costuma sair para comer em restaurantes ou lanchonetes com que frequência?”
+“Quando vai escolher o que pedir, o que você costuma observar primeiro no cardápio?”
+“Você prefere cardápios em papel ou digitais (por QR Code)? Por quê?”
+
+**Focadas na experiência com cardápios digitais**
+“Você já usou cardápios digitais em restaurantes (por QR Code, tablet etc.)?”
+“O que achou mais fácil e o que achou mais difícil?”
+
+**Focadas nas expectativas e sugestões**
+“Se você pudesse mudar algo nos cardápios atuais, o que seria?”
+“O que tornaria o cardápio perfeito para você?”
+
 **Principais achados:**
 - Alguns entrevistados relataram **vergonha de pedir ajuda** para ler cardápios, evidenciando a importância da autonomia.
 - O uso de **nomes criativos e pouco descritivos** nos pratos causa confusão.
 - Pessoas com restrições alimentares sentem **insegurança** por falta de informação sobre ingredientes.
+- O uso de imagens que descrevam bem o prato foi bastante sugerido
 
 **Exemplo de relato:**  
-> “Tenho intolerância à lactose e, muitas vezes, o cardápio não diz o que contém leite. Já passei mal por não ter essa informação.”
+> “Tenho intolerância à lactose e, muitas vezes, o cardápio não diz se o prato contém o8u não leite. Já passei mal por falta dessa informação.”
 
 ---
 
@@ -94,7 +110,6 @@ O questionário forneceu dados objetivos sobre dificuldades recorrentes, enquant
 **O que poderia ser melhorado:**
 - Ampliar o número de entrevistados com deficiência visual ou intelectual.  
 - Realizar **observações em campo** (em restaurantes) para registrar comportamentos naturais.  
-- Usar **gravação de áudio** nas entrevistas, mediante consentimento, para capturar expressões mais sutis.
 
 **O que faríamos diferente:**  
 > Em uma nova iteração, incluiríamos o método de *shadowing* (observação acompanhada) para observar como o usuário realmente interage com o cardápio em um ambiente real, comparando suas expectativas com o uso prático.
