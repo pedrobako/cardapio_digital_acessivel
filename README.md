@@ -44,12 +44,12 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 
 ## Métodos de pesquisa com usuários
 
-Para compreender o contexto e as dificuldades enfrentadas por pessoas em situações reais de escolha de refeições, foram aplicados **dois métodos IDEO complementares**: entrevistas contextuais e questionários estruturados.
+Para compreender o contexto e as dificuldades enfrentadas por pessoas em situações reais de escolha de refeições, foram aplicados **dois métodos IDEO complementares**: entrevistas contextuais e questionários estruturados. Estes métodos foram selecionados em virtude da facilidade de aplicação e a grande quantidade de informações inciciais que eles retornam. Outros métodos como o Shadowing e a Observação de Campo demandam mais esforço e podem ser utilizados em fases futuras para o refinamento.
 
 ### 🧩 Método 1 — Entrevistas Contextuais
 
 **Justificativa:**  
-Permite compreender experiências pessoais, barreiras emocionais e cognitivas associadas ao uso de cardápios tradicionais ou digitais. Esse método aprofunda aspectos que um formulário não revela, como sentimentos de vergonha ou confusão.
+Permite compreender experiências pessoais, barreiras emocionais e cognitivas associadas ao uso de cardápios digitais. Esse método aprofunda aspectos que um formulário não revela, como sentimentos de vergonha ou confusão.
 
 **Aplicação:**  
 Foram realizadas entrevistas curtas (10–15 min) com diferentes perfis de usuários (incluindo pessoas com deficiência leve e restrições alimentares).  
@@ -77,6 +77,9 @@ Foram realizadas entrevistas curtas (10–15 min) com diferentes perfis de usuá
 **Exemplo de relato:**  
 > “Tenho intolerância à lactose e, muitas vezes, o cardápio não diz se o prato contém o8u não leite. Já passei mal por falta dessa informação.”
 
+**Dificuldades**
+- Localizar pessoas relevantes ao projeto disponíveis para realizar a entrevista
+  
 ---
 
 ### 📋 Método 2 — Questionário Estruturado
@@ -99,6 +102,10 @@ O questionário foi aplicado via Google Forms e está disponível no link:
 
 **Exemplo de relato:**  
 > “Seria interessante se todo cardápio digital mostrasse os ingredientes, igual às embalagens de supermercado.”
+
+**Dificuldade**
+- Pensar em perguntas que sejam pertinentes
+- Montar um questionário abrangente, mas ao mesmo tempo objetivo
 
 ---
 
