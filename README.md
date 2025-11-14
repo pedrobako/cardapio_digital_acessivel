@@ -46,7 +46,34 @@ O **protótipo de alta fidelidade** será desenvolvido no Figma, com ênfase na 
 
 Para compreender o contexto e as dificuldades enfrentadas por pessoas em situações reais de escolha de refeições, foram aplicados **dois métodos IDEO complementares**: entrevistas contextuais e questionários estruturados. Estes métodos foram selecionados em virtude da facilidade de aplicação e a grande quantidade de informações inciciais que eles retornam. Outros métodos como o Shadowing e a Observação de Campo demandam mais esforço e podem ser utilizados em fases futuras para o refinamento.
 
-### 🧩 Método 1 — Entrevistas Contextuais
+### 📋 Método 1 — Questionário Estruturado
+
+**Justificativa:**  
+Permite coletar dados quantitativos e identificar padrões de dificuldade entre diferentes perfis de usuários.  
+O questionário foi aplicado via Google Forms e está disponível no link: 
+[Pesquisa de acessibilidade em cardápios](https://docs.google.com/forms/d/e/1FAIpQLSdMkBmeMoEKAeqsSqeltPN_bi2MH_6iJ4FKnCy57SXTYVnoNQ/viewform)
+
+**Principais achados (dados consolidados):**
+- 70% dos participantes apontaram **letra pequena** como principal problema em cardápios tradicionais.  
+- 60% citaram **falta de imagens ilustrativas** como fator que dificulta a compreensão.  
+- 55% relataram **baixa legibilidade** por contraste insuficiente.  
+- Recursos de acessibilidade mais desejados:  
+  - Fonte ajustável  
+  - Alto contraste  
+  - Imagens ilustrativas  
+  - Descrição de ingredientes e alergênicos  
+  - Compatibilidade com leitor de tela  
+
+**Exemplo de relato:**  
+> “Seria interessante se todo cardápio digital mostrasse os ingredientes, igual às embalagens de supermercado.”
+
+**Dificuldade**
+- Pensar em perguntas que sejam pertinentes
+- Montar um questionário abrangente, mas ao mesmo tempo objetivo
+
+---
+
+### 🧩 Método 2 — Entrevistas Contextuais
 
 **Justificativa:**  
 Permite compreender experiências pessoais, barreiras emocionais e cognitivas associadas ao uso de cardápios digitais. Esse método aprofunda aspectos que um formulário não revela, como sentimentos de vergonha ou confusão.
@@ -79,33 +106,6 @@ Foram realizadas entrevistas curtas (10–15 min) com diferentes perfis de usuá
 
 **Dificuldades**
 - Localizar pessoas relevantes ao projeto disponíveis para realizar a entrevista
-  
----
-
-### 📋 Método 2 — Questionário Estruturado
-
-**Justificativa:**  
-Permite coletar dados quantitativos e identificar padrões de dificuldade entre diferentes perfis de usuários.  
-O questionário foi aplicado via Google Forms e está disponível no link: 
-[Pesquisa de acessibilidade em cardápios](https://docs.google.com/forms/d/e/1FAIpQLSdMkBmeMoEKAeqsSqeltPN_bi2MH_6iJ4FKnCy57SXTYVnoNQ/viewform)
-
-**Principais achados (dados consolidados):**
-- 70% dos participantes apontaram **letra pequena** como principal problema em cardápios tradicionais.  
-- 60% citaram **falta de imagens ilustrativas** como fator que dificulta a compreensão.  
-- 55% relataram **baixa legibilidade** por contraste insuficiente.  
-- Recursos de acessibilidade mais desejados:  
-  - Fonte ajustável  
-  - Alto contraste  
-  - Imagens ilustrativas  
-  - Descrição de ingredientes e alergênicos  
-  - Compatibilidade com leitor de tela  
-
-**Exemplo de relato:**  
-> “Seria interessante se todo cardápio digital mostrasse os ingredientes, igual às embalagens de supermercado.”
-
-**Dificuldade**
-- Pensar em perguntas que sejam pertinentes
-- Montar um questionário abrangente, mas ao mesmo tempo objetivo
 
 ---
 
