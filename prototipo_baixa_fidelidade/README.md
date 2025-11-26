@@ -1,4 +1,8 @@
+**Protótipo de baixa fidelidade**
+
 Nessa etapa, desenvolvemos um protótipo de baixa fidelidade usando Balsamiq para o propor implementações para o projeto de Cardápio Digital Acessível. O objetivo principal deste protótipo foi explorar diferentes ideias de interface e fluxos de interação focados em acessibilidade (alto contraste, opções de leitura em voz, ajuste de tamanho da fonte, filtros por restrições alimentares) e validar como usuários com diferentes necessidades encontrariam e consumiriam informações do cardápio. 
+
+Link do Balsamiq: https://balsamiq.cloud/syk0q7b/psun5s8/rB8DB
 
 **Como foi feito?**
 
