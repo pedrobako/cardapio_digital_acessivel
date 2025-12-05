@@ -39,8 +39,8 @@ Troca a paleta de cores para realçar contraste, importante para ambientes escur
 Representada por ícones sonoros, facilitando compreensão dos itens do cardápio.
 
 <div align="left">
-  <img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/53d79a47-1735-4499-b93e-9615b70ec958" />
-  <img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/dca359da-1687-4786-88d6-d00d5fb66b89" />
+  <img width="65" height="45" alt="image" src="https://github.com/user-attachments/assets/c3e56b64-bcb5-4f07-87d3-beb76cc8f949" />
+  <img width="65" height="45" alt="image" src="https://github.com/user-attachments/assets/0a68375e-0ab0-4626-b367-1b142feb19db" />
 </div>
 
 ✔ **Filtro de restrições alimentares**  
