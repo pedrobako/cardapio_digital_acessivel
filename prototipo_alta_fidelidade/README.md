@@ -30,9 +30,10 @@ Permite que o usuário aumente a legibilidade dos textos, auxiliando pessoas com
 
 ✔ **Modo de Alto Contraste**  
 Troca a paleta de cores para realçar contraste, importante para ambientes escuros e usuários com distúrbios visuais.
-<img width="126" height="58" alt="image" src="https://github.com/user-attachments/assets/48632844-3410-43e5-a38b-640f2e198ee1" />
 
-
+<div align="left">
+  <img width="126" height="58" alt="image" src="https://github.com/user-attachments/assets/48632844-3410-43e5-a38b-640f2e198ee1" />
+</div>
 
 ✔ **Leitura de Tela (ativar/desativar)**  
 Representada por ícones sonoros, facilitando compreensão dos itens do cardápio.
