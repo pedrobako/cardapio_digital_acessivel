@@ -6,6 +6,7 @@ Este repositório apresenta o protótipo de alta fidelidade de um **cardápio di
 ### 🔗 Links do Projeto
 
 **📌 Apresentação do Protótipo (Navegável)**  
+
 https://www.figma.com/proto/C1QQkE0j3ljWC5yAghHrvF/Cardapio-digital-acessivel?node-id=33-80&t=4S4X1HYjp7WEHAAC-1&starting-point-node-id=33%3A80
 
 **🛠️ Desenvolvimento do Protótipo (Arquivo Editável)**  
@@ -22,7 +23,9 @@ O objetivo do projeto é propor uma interface inclusiva, intuitiva e adaptada a 
 ✔ **Ajuste de tamanho de fonte (A+ / A−)**  
 Permite que o usuário aumente a legibilidade dos textos, auxiliando pessoas com baixa visão.
 
-<img width="146" height="79" alt="image" src="https://github.com/user-attachments/assets/e21bed88-d6b5-4b4e-8813-c1125e4f5891" />
+<div align="left">
+  <img width="146" height="79" alt="image" src="https://github.com/user-attachments/assets/e21bed88-d6b5-4b4e-8813-c1125e4f5891" />
+</div>
 
 
 ✔ **Modo de Alto Contraste**  
