@@ -40,11 +40,8 @@ Representada por ícones sonoros, facilitando compreensão dos itens do cardápi
 
 <div align="left">
   <img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/53d79a47-1735-4499-b93e-9615b70ec958" />
+  <img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/dca359da-1687-4786-88d6-d00d5fb66b89" />
 </div>
-<div align="left">
-  <img width="73" height="55" alt="image" src="https://github.com/user-attachments/assets/dca359da-1687-4786-88d6-d00d5fb66b89" />
-</div>
-
 
 ✔ **Filtro de restrições alimentares**  
 Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar quais itens do cardápio fazem parte de cada grupo alimentar.
@@ -79,6 +76,7 @@ Encontra pratos rapidamente sem percorrer toda a interface.
 Feedback direto para melhoria do aplicativo, incentivando participação ativa.
 
 <div align="left">
-  <img width="320" height="429" alt="image" src="https://github.com/user-attachments/assets/8c1e4c80-1d1f-4038-b6f1-2c23366b8436" />
-</div
+  <img width="192" height="257" alt="image" src="https://github.com/user-attachments/assets/8c1e4c80-1d1f-4038-b6f1-2c23366b8436" />
+</div>
+
 
