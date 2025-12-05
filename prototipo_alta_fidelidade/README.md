@@ -59,8 +59,12 @@ Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos
 - Preço  
 - **Ingredientes**
 - **Tabela nutricional** (ex.: calorias, proteínas, gorduras)
-<img width="339" height="266" alt="image" src="https://github.com/user-attachments/assets/ad80d859-8feb-487d-8ba2-e1cb6767fc1d" />
-<img width="352" height="563" alt="image" src="https://github.com/user-attachments/assets/61e47010-10d7-4f08-956e-04707aed63f2" />
+<div align="left">
+  <img width="224" height="176" alt="image" src="https://github.com/user-attachments/assets/ad80d859-8feb-487d-8ba2-e1cb6767fc1d" />
+</div>
+<div align="left">
+  <img width="232" height="372" alt="image" src="https://github.com/user-attachments/assets/61e47010-10d7-4f08-956e-04707aed63f2" />
+</div>
 
 
 
