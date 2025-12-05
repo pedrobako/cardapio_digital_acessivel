@@ -63,17 +63,22 @@ Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos
   <img width="224" height="176" alt="image" src="https://github.com/user-attachments/assets/ad80d859-8feb-487d-8ba2-e1cb6767fc1d" />
 </div>
 <div align="left">
-  <img width="232" height="372" alt="image" src="https://github.com/user-attachments/assets/61e47010-10d7-4f08-956e-04707aed63f2" />
+  <img width="180" height="288" alt="image" src="https://github.com/user-attachments/assets/61e47010-10d7-4f08-956e-04707aed63f2" />
 </div>
 
 
 
 ✔ **Campo de busca inteligente**  
 Encontra pratos rapidamente sem percorrer toda a interface.
-<img width="316" height="50" alt="image" src="https://github.com/user-attachments/assets/6427af7e-4e77-4482-8550-adb39ef669d3" />
 
+<div align="left">
+  <img width="316" height="50" alt="image" src="https://github.com/user-attachments/assets/6427af7e-4e77-4482-8550-adb39ef669d3" />
+</div
 
 ✔ **Envio de sugestões pelo usuário**  
 Feedback direto para melhoria do aplicativo, incentivando participação ativa.
-<img width="320" height="429" alt="image" src="https://github.com/user-attachments/assets/8c1e4c80-1d1f-4038-b6f1-2c23366b8436" />
+
+<div align="left">
+  <img width="320" height="429" alt="image" src="https://github.com/user-attachments/assets/8c1e4c80-1d1f-4038-b6f1-2c23366b8436" />
+</div
 
