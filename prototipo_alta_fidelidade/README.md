@@ -37,14 +37,20 @@ Troca a paleta de cores para realçar contraste, importante para ambientes escur
 
 ✔ **Leitura de Tela (ativar/desativar)**  
 Representada por ícones sonoros, facilitando compreensão dos itens do cardápio.
-<img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/53d79a47-1735-4499-b93e-9615b70ec958" />
-<img width="73" height="55" alt="image" src="https://github.com/user-attachments/assets/dca359da-1687-4786-88d6-d00d5fb66b89" />
+
+<div align="left">
+  <img width="67" height="56" alt="image" src="https://github.com/user-attachments/assets/53d79a47-1735-4499-b93e-9615b70ec958" />
+</div>
+<div align="left">
+  <img width="73" height="55" alt="image" src="https://github.com/user-attachments/assets/dca359da-1687-4786-88d6-d00d5fb66b89" />
+</div>
 
 
 ✔ **Filtro de restrições alimentares**  
-Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar quais itens do cardápio fazem parte de cada grupo alimentar.
-<img width="350" height="611" alt="image" src="https://github.com/user-attachments/assets/63802722-4690-421d-bdc0-8dad46447ff5" />
-
+Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar quais itens do cardápio fazem parte de cada grupo alimentar.]
+<div align="left">
+  <img width="350" height="611" alt="image" src="https://github.com/user-attachments/assets/63802722-4690-421d-bdc0-8dad46447ff5" />
+</div>
 
 
 ✔ **Informações completas dos pratos**
