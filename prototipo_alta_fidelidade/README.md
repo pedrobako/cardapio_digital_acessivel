@@ -26,10 +26,10 @@ Permite que o usuário aumente a legibilidade dos textos, auxiliando pessoas com
 Troca a paleta de cores para realçar contraste, importante para ambientes escuros e usuários com distúrbios visuais.
 
 ✔ **Leitura de Tela (ativar/desativar)**  
-Representada por ícones sonoros, facilitando compreensão e comunicação.
+Representada por ícones sonoros, facilitando a compreensão dos itens.
 
 ✔ **Filtro de restrições alimentares**  
-Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.).
+Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar refeições que contém essas composições.
 
 ✔ **Informações completas dos pratos**
 - Nome do prato  
