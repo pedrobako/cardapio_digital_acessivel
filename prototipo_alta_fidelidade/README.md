@@ -47,9 +47,9 @@ Representada por ícones sonoros, facilitando compreensão dos itens do cardápi
 
 
 ✔ **Filtro de restrições alimentares**  
-Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar quais itens do cardápio fazem parte de cada grupo alimentar.]
+Ajuda usuários com limitações nutricionais (sem glúten, sem lactose, veganos, etc.) a identificar quais itens do cardápio fazem parte de cada grupo alimentar.
 <div align="left">
-  <img width="350" height="611" alt="image" src="https://github.com/user-attachments/assets/63802722-4690-421d-bdc0-8dad46447ff5" />
+  <img width="120" height="210" alt="image" src="https://github.com/user-attachments/assets/63802722-4690-421d-bdc0-8dad46447ff5" />
 </div>
 
 
